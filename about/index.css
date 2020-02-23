@@ -1,0 +1,15 @@
+h1 {
+	color: #3fc488;
+	/*border-color: purple;
+	border-width: 2px;
+	border-style: solid;*/
+	border: dashed 2px rgb(255,32,45);
+}
+li {
+	color: rgba(245, 45, 89, .8);
+}
+body {
+	background: url(https://www.abcworldwidestone.com/wp-content/uploads/2018/03/Woodgrain-Black-Polished-3cm-Lot-B3305-Slab-39-Close-Up-1024x653.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
